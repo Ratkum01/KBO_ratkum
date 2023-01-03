@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1060875580781",
+    "project_id": "kbo-ratkum-e658c",
+    "storage_bucket": "kbo-ratkum-e658c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060875580781:android:1ec77a93e3da9b0e309664",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060875580781-b6m24mgru4qqmbhag2hg36s12gm67fb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4wumuX90dUpDDIWpTSIJY-s3u2tIwgAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060875580781-b6m24mgru4qqmbhag2hg36s12gm67fb9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1060875580781-ua5ink4j5buqlquqcjusfpnejuan3nj4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.schoolAul"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060875580781:android:662eaf44901d4a70309664",
+        "android_client_info": {
+          "package_name": "com.example.school_aul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060875580781-b6m24mgru4qqmbhag2hg36s12gm67fb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4wumuX90dUpDDIWpTSIJY-s3u2tIwgAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060875580781-b6m24mgru4qqmbhag2hg36s12gm67fb9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1060875580781-ua5ink4j5buqlquqcjusfpnejuan3nj4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.schoolAul"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
